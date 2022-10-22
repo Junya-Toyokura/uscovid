@@ -22,4 +22,4 @@ Add after 'uscovid' the state name situation you want to know about.
 
 $uscovid 'South Dakota'
 
-<img src='https://github.com/Junya-Toyokura/uscovid/blob/main/result.png' width=640 height=480>
+<img src='https://github.com/Junya-Toyokura/uscovid/blob/main/result.png' width=700 height=400>
