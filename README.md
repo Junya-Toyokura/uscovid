@@ -35,3 +35,5 @@ You can also know about more than one state.
 $uscovid Hwaii Arizona
 
 <img src='https://github.com/Junya-Toyokura/uscovid/blob/main/result2.png' width=900 height=500>
+
+※There is an unknown issue on searching 'West Virginia', We are trying to determine the cause of the problem. Please wait a moment.
